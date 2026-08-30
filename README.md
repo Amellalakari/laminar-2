@@ -93,3 +93,12 @@ api/chat.js       serverless proxy holding the API key
 
 One file is the wrong long-term shape. Split it when it starts to hurt — the
 natural seams are `compute()`, the `SYMPTOMS` array, and the components.
+
+## Licence
+
+MIT — see LICENSE. Use it, change it, build on it. Attribution appreciated but
+not required.
+
+If you use Laminar in published work, please state which version, since the
+computed values are tied to the build. `npm test` prints the reference cases
+that version reproduces.
