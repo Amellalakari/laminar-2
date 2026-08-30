@@ -1,5 +1,5 @@
 # Laminar
-https://doi.org/10.5281/zenodo.22175442
+Aishwarya Mellalakari. Amellalakari/laminar-2: V0.1.0 — First Public Release. V. v0.1.0,. Zenodo, released August 30, 2026. https://doi.org/10.5281/zenodo.22175442.
 
 An organ-on-chip fault finder. You enter channel geometry, flow conditions, tubing,
 material and cell type; it computes the hydrodynamics and ranks the failure modes
